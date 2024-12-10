@@ -46,7 +46,7 @@ const reviewsData = [
 
 const Reviews = () => {
   return (
-    <div className="lg:px-32 lg:py-28 px-10 py-12 bg-backgroundColor min-h-[90vh]">
+    <div className="lg:px-32 lg:py-28 px-10 py-24 bg-backgroundColor md:min-h-[90vh]">
       <h2 className="text-center text-4xl font-bold mb-8">
         What Our Members Say
       </h2>

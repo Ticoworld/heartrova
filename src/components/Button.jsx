@@ -7,9 +7,9 @@ const Button = ({
   bgColor = "bg-primaryColor",  
   textColor = "text-white", 
   link = "#", 
-  hoverColor = "bg-customGreen", 
-  borderColor = "border-transparent",
-  hoverBorderColor = "border-customGreen",
+  hoverColor = "text-primaryColor", 
+  borderColor = "border-primaryColor",
+  hoverBorderColor = "border-primaryColor",
   paddingX = "px-4",
   paddingY = "py-1",
   onClick = () => {} 

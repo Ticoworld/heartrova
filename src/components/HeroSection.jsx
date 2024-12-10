@@ -33,7 +33,7 @@ const HeroSection = () => {
             />
           </span>
         </h1>
-        <p className="mt-4 text-lg max-w-xl py-2">
+        <p className="mt-4 md:text-lg  text-sm max-w-xl py-2">
           Join thousands of singles and discover meaningful connections today.
         </p>
         <Button 
